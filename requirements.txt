@@ -1,0 +1,14 @@
+# Core ML & Data Libraries
+pandas
+numpy
+scikit-learn
+
+# Text preprocessing
+nltk
+
+# Differential Privacy for Logistic Regression
+diffprivlib
+
+# (Optional for enhanced plotting or analysis later)
+matplotlib
+seaborn
